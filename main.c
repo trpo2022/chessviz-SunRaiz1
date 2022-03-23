@@ -25,5 +25,5 @@ int main()
                {'P', 'P', 'P', 'P', 'P', 'P', 'P', 'P'},
                {'R', 'H', 'B', 'Q', 'K', 'B', 'H', 'R'}};
     chess(desk);
-    printf("\n R-rook,H-knight,B-Bishop,K-king,Q-queen,P-pawn");
+    printf("\n R-rook,H-knight,B-Bishop,K-king,Q-queen,P-pawn \n");
 }
